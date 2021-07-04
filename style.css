@@ -2,6 +2,9 @@ p{
     color: red;
 }
 #para1{
-    background: green;
-    
+    background: cornflowerblue;
+    height: 50px;
+    width: 500px;
+    color: white;
+    text-align: center;
 }
